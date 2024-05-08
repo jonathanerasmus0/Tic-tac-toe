@@ -51,4 +51,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Screenshots
 
-Add screenshots here.
+![2 (1)](https://github.com/jonathanerasmus0/Tic-tac-toe/assets/146955969/32d66bb1-5064-466f-adc0-4e4570376688)
+
+![3](https://github.com/jonathanerasmus0/Tic-tac-toe/assets/146955969/6dee1c81-db5d-4bf8-a940-8c86e928852f)
+
+![4](https://github.com/jonathanerasmus0/Tic-tac-toe/assets/146955969/08d768bc-5c73-4f5a-8876-323e6ea7fa73)
+
+![1 (1)](https://github.com/jonathanerasmus0/Tic-tac-toe/assets/146955969/c8fc6eca-954f-4ffa-aa24-f83ed082d176)
+
